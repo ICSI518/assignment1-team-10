@@ -11,7 +11,7 @@ function add(a, b) {
 
 // Function to subtract two numbers
 function subtract(a, b) {
-  // return a - b;
+   return a - b; //Implemeted-subtract-function
 }
 
 // Function to divide two numbers
