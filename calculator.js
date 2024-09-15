@@ -5,7 +5,8 @@ function multiply(a, b) {
 
 // Function to add two numbers
 function add(a, b) {
-  // return a + b;
+  const c = a+b;
+  return c;
 }
 
 // Function to subtract two numbers
