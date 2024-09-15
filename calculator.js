@@ -15,10 +15,10 @@ function subtract(a, b) {
 
 // Function to divide two numbers
 function divide(a, b) {
-  // if (b === 0) {
-  //   return "Error: Division by zero";
-  // }
-  // return a / b;
+  if (b === 0) {
+    return "Error: Division by zero";   // when b is 0, diviion by zero is returned
+  }
+  return a / b;  // else a/b value is returned
 }
 
 // Example usage
